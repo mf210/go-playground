@@ -5,4 +5,5 @@ use (
     ./helloworld
     ./even_or_odd
     ./structs
+    ./refe_vs_value_types
 )
